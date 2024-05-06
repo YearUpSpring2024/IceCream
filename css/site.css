@@ -1,0 +1,12 @@
+.container {
+    max-width: 800px;
+}
+
+.toppings-header {
+    margin-top: 20px;
+    height: 200px;
+}
+
+.toppings-header h2{
+    text-align: left;
+}
